@@ -1,0 +1,2 @@
+# GeometricShapes2
+This program is essentially a re-written version of GeometricShapes. The difference with this program is that every geometric shape presented is represented by a class. The class stores the dimensions as private members. The program also consists of get and set functions, a volume function, surface area function, and a constructor. This program also checks for all possible errors the user could potentially input. 
