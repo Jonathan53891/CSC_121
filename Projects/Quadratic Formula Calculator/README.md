@@ -1,0 +1,2 @@
+# QuadraticFormula
+This program calculates the value of x in the quadratic formula (ax2 + bx + c = 0). This program has the ReadDouble function modified to alert the user of any errors that are inputted as the program is calculating for x. Many possibilities for an error result are avoided in this program. Once the user inputs a correct set of integers, the program then finds the respective “x” value.
